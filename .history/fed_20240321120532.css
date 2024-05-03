@@ -1,0 +1,5 @@
+table.programs{
+    background: white;
+    border: 15px outset rgb(red, green, blue)
+    border-collapse: collapse;
+}
